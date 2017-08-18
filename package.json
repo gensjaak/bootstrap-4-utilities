@@ -1,0 +1,13 @@
+{
+  "name": "bootstrap-4-utilities",
+  "version": "1.0.0",
+  "description": "Bootstrap 4 utilities classes in standalone file.",
+  "keywords": [
+    "Bootstrap4",
+    "Utilities",
+    "Grid",
+    "Flexbox"
+  ],
+  "author": "Jean-jacques AKAKPO (akakpo.jeanjacques@gmail.com)",
+  "license": "MIT"
+}
